@@ -12,19 +12,24 @@
         "su": "Amis nangtung pikeun Instrumén Manajemén asset Leyuran akting salaku multi dimensi, tujuan multi, serbaguna pindah gancang kandaraan kauangan jaman ékonomi digital."
         
   },
-  "GitChat": "@amis_erc20",
+  "Email": "",
   "website": "https://amis-erc20.github.io/index",
   "whitepaper": "https://github.com/amisolution/ERC20-AMIS/#white-paper",
   "state": "ACTIVE",
   "published_on": "Feb-25-2017",
   "initial_price":{
-        "ETH":"0.001ETH"
+        "ETH":"0.001ETH",
+        "USD":"0.7 USD",
+        "BTC":"0.000001 BTC"
   },
   "links": {
-    "blog": "https:/medium.com/@amis_erc20",
+    "blog": "https://amis-erc20.blogspot.com",
     "twitter": "https://twitter.com/amis_erc20",
-    "reddit": "https://reddit.com/r/amis_erc20",
+    "telegram": "",
     "github": "https://github.com/amisolution/ERC20-AMIS",
-    "facebook": "https://www.facebook.com/amis.token"
+    "facebook": "https://www.facebook.com/amis.token",
+    "reddit": "https://www.reddit.com/r/amis_erc20/",
+    "slack": "https://amisolution.slack.com",
+    "medium": "https://medium.com/@amis_erc20"
   }
 }
