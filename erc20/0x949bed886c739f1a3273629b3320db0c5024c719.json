@@ -1,0 +1,28 @@
+{
+  "symbol": "AMIS",
+  "address": "0x949bed886c739f1a3273629b3320db0c5024c719",
+  "overview":{
+        "en": "AMIS stands for Asset Management Instruments Solutions acting as a multi dimensional, multi purposes, versatile fast moving financial vehicles for the digital economy era.",
+        "zh": "AMIS代表资产管理仪器解决方案，作为数字经济时代的多维，多用途，多功能快速移动金融工具。",
+        "ru": "AMIS выступает за Asset Management Instruments Solutions, выступая в качестве многомерных, многоцелевых, универсальных быстро движущихся финансовых средств для эпохи цифровой экономики.",
+        "hi": "एएमआईएस डिजिटल प्रबंधन युग के लिए एक बहु आयामी, बहु प्रयोजन, बहुमुखी तेजी से चलने वाले वित्तीय वाहनों के रूप में कार्यरत एसेट मैनेजमेंट इंस्ट्रूमेंट्स सॉल्यूशंस के लिए खड़ा है।",
+        "id": "AMIS adalah singkatan dari Asset Management Instruments Solutions yang bertindak sebagai multi dimensional, multi purpose, serbaguna, kendaraan keuangan yang bergerak cepat untuk era ekonomi digital.",
+        "su": "Amis nangtung pikeun Instrumén Manajemén asset Leyuran akting salaku multi dimensi, tujuan multi, serbaguna pindah gancang kandaraan kauangan jaman ékonomi digital."
+        
+  },
+  "GitChat": "@amis_erc20",
+  "website": "https://amis-erc20.github.io/index",
+  "whitepaper": "https://github.com/amisolution/ERC20-AMIS/#white-paper",
+  "state": "ACTIVE",
+  "published_on": "Feb-25-2017",
+  "initial_price":{
+        "ETH":"0.001ETH"
+  },
+  "links": {
+    "blog": "https:/medium.com/@amis_erc20",
+    "twitter": "https://twitter.com/amis_erc20",
+    "reddit": "https://reddit.com/r/amis_erc20",
+    "github": "https://github.com/amisolution/ERC20-AMIS",
+    "facebook": "https://www.facebook.com/amis.token"
+  }
+}
